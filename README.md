@@ -3,14 +3,14 @@
 💻 **Full-Stack Developer | IoT & AI Enthusiast | Cadet Developer**  
 
 I’m passionate about building smart, secure, and scalable systems that solve real-world problems.  
-Currently focusing on **Django + React** projects, integrating **AI**, **IoT**, and **cloud technologies** to make computing easier for citizens and organizations.
+Currently focusing on **Django + React** projects, integrating **AI**, **IoT**, and **cloud technologies** to make computing easier for citizens and organizations.  
 
 ---
 
 ## 🚀 What I'm Working On
 - 🧠 **Smart Report System** — automating academic report generation and visualization  
-- 🛠️ **NPC DataVault** — secure data management and analytics platform  
-- 📊 **DailTrack** — intelligent data tracking and analysis system  
+- 🛡️ **NPC DataVault** — secure data management and analytics platform  
+- 💉 **DailTrack** — diabetic management & patient tracking system  
 - 🎟️ **E-Booking** — online booking system for events and services  
 - 🎵 **Music Festival Management System** — event ticketing and artist feedback platform  
 
@@ -48,8 +48,8 @@ Currently focusing on **Django + React** projects, integrating **AI**, **IoT**, 
 
 ## 🌍 Connect With Me
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shemaalain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shemaalain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Alain275"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
